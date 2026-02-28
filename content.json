@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "deckId": "digital-channels-pitch",
+    "title": "Digital Channels & Platforms",
+    "theme": "dark-corporate"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "headline": "Digital Channels & Platforms",
+      "subheadline": "Enterprise-Scale Transformation & Disciplined Execution"
+    },
+    {
+      "type": "section",
+      "headline": "The Frontline Reality",
+      "subheadline": "Friction slows operations; digital channels must enable performance."
+    },
+    {
+      "type": "content",
+      "headline": "Translating Strategy to Impact",
+      "bullets": [
+        "17+ years supporting Retail, Commercial, and Wealth.",
+        "End-to-end ownership of complex, multi-stream programs.",
+        "Clear prioritisation across competing investments.",
+        "Confident executive decision support.",
+        "Delivery at scale with strict risk discipline."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Core Strength: Enterprise Execution",
+      "bullets": [
+        "Led multi-year frontline banker workflow programs.",
+        "Operated across 50+ enterprise domains.",
+        "Structured discipline via OKRs and milestone management.",
+        "Transparent risk management and compliance.",
+        "Consistent delivery momentum and predictability."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Core Strength: Frontline Empathy",
+      "bullets": [
+        "Not just abstract system transformations.",
+        "Deep understanding of workflow friction and pressures.",
+        "Seamless integration into daily banker activities.",
+        "Translate needs into practical, scalable solutions.",
+        "Drive actual productivity and customer outcomes."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Core Strength: Executive Governance",
+      "bullets": [
+        "Navigate regulatory transformations and divestments safely.",
+        "Balance speed, risk, and control confidently.",
+        "Provide structured, data-driven trade-off insights.",
+        "Establish shared purpose across complex ecosystems.",
+        "Lead through clarity without direct reporting lines."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "First 90 Days: Delivery Execution",
+      "bullets": [
+        "1. Rapid frontline immersion to validate pain points.",
+        "2. Agree on strategic outcomes and success metrics.",
+        "3. Align Tech, Product, Finance, and Risk early.",
+        "4. Establish delivery cadence and roadmap transparency."
+      ]
+    },
+    {
+      "type": "beforeAfter",
+      "headline": "Optimizing Ways of Working",
+      "left": {
+        "title": "Current State / Challenges",
+        "bullets": [
+          "Duplication across programs.",
+          "Fragmented release sequencing.",
+          "Unclear squad accountabilities."
+        ]
+      },
+      "right": {
+        "title": "Target Delivery Rhythm",
+        "bullets": [
+          "Uplift agile maturity efficiently.",
+          "Clarify cross-domain accountability.",
+          "Coordinated change management."
+        ]
+      }
+    },
+    {
+      "type": "content",
+      "headline": "12–24 Month Strategic Blueprint",
+      "bullets": [
+        "Implement dashboards for delivery predictability.",
+        "Tie digital channel metrics to financial outcomes.",
+        "Define roadmap for frontline digital adoption.",
+        "Ensure robust regulatory resilience.",
+        "Secure long-term executive funding endorsement."
+      ]
+    },
+    {
+      "type": "closing",
+      "headline": "What Drives Me",
+      "subheadline": "Enabling frontline teams to serve customers better, faster, and with greater confidence through well-executed digital platforms."
+    }
+  ]
+}
